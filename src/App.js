@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-//import './App.css';
 import "./style.css";
 import Header from "./Header.js";
 import Article from "./Article.js"
