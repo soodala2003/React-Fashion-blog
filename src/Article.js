@@ -18,7 +18,7 @@ export default function Article() {
               
         <aside>
           <ul>
-            <li><a href="#">Continues...</a></li>  
+            <li><a href="...">Continues...</a></li>  
           </ul>
         </aside>
       </article>
@@ -38,7 +38,7 @@ export default function Article() {
             
         <aside>
           <ul>
-            <li><a href="#">Continues...</a></li>
+            <li><a href="...">Continues...</a></li>
           </ul>
         </aside>
       </article>
