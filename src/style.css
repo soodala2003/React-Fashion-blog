@@ -14,15 +14,11 @@ body {
 
 }
 
-header, main, footer {
+header, footer {
     margin: 1rem 2rem;
 }
 
-header nav {
-    padding-bottom: 30px;
-}
-
-.nav-list {
+.nav-header-list {
     padding: 0;
     list-style-type: none;
     display: flex;
@@ -30,7 +26,7 @@ header nav {
     align-items: center;
 }
 
-header .nav-list li a {
+.nav-header-list li a {
     color: lightgray;
 } 
 
@@ -55,7 +51,15 @@ h3 {
     margin: 10px 0;
 }
 
-footer .nav-list li a {
+.nav-footer-list {
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-footer-list li a {
     color: tomato;
     text-decoration: none;
 } 
